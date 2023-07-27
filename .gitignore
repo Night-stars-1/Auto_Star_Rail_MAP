@@ -49,7 +49,7 @@ coverage.xml
 .pytest_cache/
 
 # Translations
-#*.mo
+*.mo
 *.pot
 
 # Django stuff:
@@ -106,30 +106,6 @@ venv.bak/
 
 # add
 .idea/
+temp.zip
+上传仓库.bat
 
-# custom 
-logs/
-tmp/
-plugins/
-StarRailAssistant_backup/
-new_cv_tools.py
-map_list.json
-LICENSE
-picture_list.json
-version.json
-screencast.png
-screencast1.png
-utils/A_.py
-utils/yolo.py
-.vscode/settings.json
-config.json
-启动.exe
-星穹铁道小助手.exe
-gettext.bat
-gui.build/
-gui.dist/
-scr.png
-build.bat
-*.pot
-*.po
-/*.mo
