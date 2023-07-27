@@ -1,7 +1,4 @@
-# SRA
-# 崩坏：星穹铁道小助手地图库
-<img alt="LOGO" src="./temp/love!.png" style="border-radius:50%">
-
+# Auto_Star_Rail地图库
 
 ## | 文件结构
 `map`文件夹为崩坏：星穹铁道自动锄大地脚本的导航文件。
@@ -34,11 +31,11 @@
 
 感谢以下贡献者对本项目做出的贡献
 
-<a href="https://github.com/Starry-Wind/Honkai-Star-Rail/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Starry-Wind/Honkai-Star-Rail" />
+<a href="https://github.com/Night-stars-1/Auto_Star_Rail_MAP/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Night-stars-1/Auto_Star_Rail_MAP" />
 
 </a>
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Starry-Wind/Honkai-Star-Rail&type=Date)](https://star-history.com/#Starry-Wind/Honkai-Star-Rail&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Night-stars-1/Auto_Star_Rail_MAP&type=Date)](https://star-history.com/#Night-stars-1/Auto_Star_Rail_MAP&Date)
