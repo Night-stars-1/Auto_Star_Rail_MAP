@@ -137,7 +137,7 @@
   },
   {
     "path": "map/map_3-2_1.json",
-    "hash": "d76181f304c378a7bcd39bb776927584"
+    "hash": "571910a1ff3ebdb8d8e24f78e7cfe356"
   },
   {
     "path": "map/map_3-2_2.json",
@@ -184,10 +184,6 @@
     "hash": "e0a0c17dd1c62de11cf24694b8801818"
   },
   {
-    "path": "map/map_3-4_2.json",
-    "hash": "188c1cb16e971601fb02ddfdfde5c177"
-  },
-  {
     "path": "map/map_3-4_3.json",
     "hash": "8cd4d568d56a94c8603bcae86491a8db"
   },
@@ -197,7 +193,7 @@
   },
   {
     "path": "map/map_3-4_5.json",
-    "hash": "c09ec1083ca99e442d29ce13540ad0e1"
+    "hash": "1ac33abae5c28af8ca606918914018ef"
   },
   {
     "path": "map/map_3-4_6.json",
@@ -229,7 +225,7 @@
   },
   {
     "path": "map/map_3-5_6.json",
-    "hash": "1065808ba89b4098147f991141028386"
+    "hash": "72e8262bf637ed8c8d1d8f3a077aad20"
   },
   {
     "path": "map/map_3-5_7.json",
@@ -249,19 +245,23 @@
   },
   {
     "path": "map/map_3-6_4.json",
-    "hash": "656946fed557a60daf310f559e0cd8ba"
+    "hash": "218bb2a4fb14899961c994379cdb77df"
   },
   {
     "path": "map/map_3-6_5.json",
-    "hash": "053cd772890823e47539c239c1dd92eb"
+    "hash": "f6736a1d9b5c4ad2bdf5ee1d710ffc83"
   },
   {
     "path": "map/map_3-6_6.json",
-    "hash": "8139a2defae514c468e6c3174a234dd0"
+    "hash": "d7d36e729af2ccefd82a71e1b12f0fd6"
   },
   {
     "path": "map/map_3-6_7.json",
-    "hash": "d6ba1ce4742781f07b6a111eba38a9c8"
+    "hash": "2168db10679b531769b0c724fa04f365"
+  },
+  {
+    "path": "map/map_3-6_8.json",
+    "hash": "4bf5594151b4744f51489d40a606f179"
   },
   {
     "path": "map/mnq/map_1-1_1.json",

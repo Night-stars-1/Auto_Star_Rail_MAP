@@ -409,7 +409,7 @@
   },
   {
     "path": "picture/pc/map_1_point_1.png",
-    "hash": "71cbc57d617b6ef1e4296d529440f953"
+    "hash": "971748108dbd8a24c306f7576d6c1ee4"
   },
   {
     "path": "picture/pc/map_2-1.jpg",
@@ -541,11 +541,11 @@
   },
   {
     "path": "picture/pc/map_3-2.png",
-    "hash": "58033261fcc16f236aef2d43c8dab91a"
+    "hash": "544b1d64caec56df71f496f993f135a4"
   },
   {
     "path": "picture/pc/map_3-2_point_1.png",
-    "hash": "c87c33de576bd242ee07587138904688"
+    "hash": "d87e867653ce88e3317768814cb980b9"
   },
   {
     "path": "picture/pc/map_3-2_point_2.png",
@@ -617,11 +617,15 @@
   },
   {
     "path": "picture/pc/map_3-5_point_3.png",
-    "hash": "ecbefffb29526eecb5609952cd9a2545"
+    "hash": "7cd0b13a09900590b7cfcd750fada4b3"
   },
   {
     "path": "picture/pc/map_3-5_point_4.png",
     "hash": "2e9ffb9fe1f1a0d72e43fc63c24b96e5"
+  },
+  {
+    "path": "picture/pc/map_3-5_point_4_0.png",
+    "hash": "39caf57f921d679608094d160ab1a7ae"
   },
   {
     "path": "picture/pc/map_3-5_point_5.png",
@@ -638,6 +642,10 @@
   {
     "path": "picture/pc/map_3-6_point_3.png",
     "hash": "e997958dda453425c8a219b9cdf4be5f"
+  },
+  {
+    "path": "picture/pc/map_3-6_point_4.png",
+    "hash": "648f0cd7a8f0328463e80f52bb3f0057"
   },
   {
     "path": "picture/pc/map_shrink.png",
