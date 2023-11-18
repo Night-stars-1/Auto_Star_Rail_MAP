@@ -1,470 +1,278 @@
 [
   {
-    "path": "map/map_2-3_5.json",
-    "hash": "6049abafa5d7658a32b15e050d35c1a8"
-  },
-  {
-    "path": "map/map_3-4_1.json",
-    "hash": "e0a0c17dd1c62de11cf24694b8801818"
-  },
-  {
-    "path": "map/map_3-2_5.json",
-    "hash": "6c0fc4b4f43412ac5823bef80e830bd1"
-  },
-  {
-    "path": "map/map_3-5_4.json",
-    "hash": "520f363966a5dda387030c7430b5c2d3"
-  },
-  {
-    "path": "map/map_3-4_6.json",
-    "hash": "ce5c4b81f070b55baeabb26b5f52d75d"
-  },
-  {
-    "path": "map/map_3-6_5.json",
-    "hash": "74bb7f14ec0b50e24538b43a785a4c0e"
-  },
-  {
-    "path": "map/map_2-4_2.json",
-    "hash": "2bee08c1992fde5413a6888514bcf395"
-  },
-  {
-    "path": "map/map_3-3_5.json",
-    "hash": "3cade683317f6a5501fb308b3ee02433"
-  },
-  {
-    "path": "map/map_1-3_2.json",
-    "hash": "7a25b9e5a7ff91d3ad6b39b6913c5ead"
-  },
-  {
-    "path": "map/map_3-3_4.json",
-    "hash": "0fd6acec84614618bd721449c6c3b6f1"
-  },
-  {
-    "path": "map/map_1-3_1.json",
-    "hash": "4dc819bcadf68d0bebaf9de51ac4058a"
-  },
-  {
-    "path": "map/map_1-2_3.json",
-    "hash": "314ad7f1e0640e6405e351f3ba48cbdd"
-  },
-  {
-    "path": "map/map_3-6_4.json",
-    "hash": "3a2d81410915ab4672cbaea58c3027b2"
-  },
-  {
-    "path": "map/map_3-2_6.json",
-    "hash": "04971b70b4ded1749c922dab35325052"
-  },
-  {
-    "path": "map/map_2-6_2.json",
-    "hash": "4839ce1c2b8d669effac67456871a9b7"
-  },
-  {
-    "path": "map/map_3-2_1.json",
-    "hash": "571910a1ff3ebdb8d8e24f78e7cfe356"
-  },
-  {
-    "path": "map/map_3-3_1.json",
-    "hash": "49ced16fc0e3a7ba15073ef03250f64f"
-  },
-  {
-    "path": "map/map_3-2_4.json",
-    "hash": "047d5d83e5e0cb1bdf8cf31fe1cc68a6"
-  },
-  {
-    "path": "map/map_3-5_1.json",
-    "hash": "9459e58ddd9df97331fc3e3f1e9cc6aa"
-  },
-  {
-    "path": "map/map_3-3_6.json",
-    "hash": "7bb373012acf8eff83733bc32998ed98"
-  },
-  {
-    "path": "map/map_3-6_7.json",
-    "hash": "2168db10679b531769b0c724fa04f365"
-  },
-  {
-    "path": "map/map_3-2_3.json",
-    "hash": "7dcfa5d7ed9050b3a5503344af012f88"
-  },
-  {
-    "path": "map/map_2-5_2.json",
-    "hash": "9ef159ad670387d03e38cf8339e22fca"
-  },
-  {
-    "path": "map/map_3-2_2.json",
-    "hash": "39cbb92318893499d8503b008d862c6d"
-  },
-  {
-    "path": "map/map_3-6_2.json",
-    "hash": "071f85aff202b2b2a156ebded5fa6106"
-  },
-  {
-    "path": "map/map_3-1_6.json",
-    "hash": "301972a37d99626617d757e5cb525efc"
-  },
-  {
-    "path": "map/map_2-4_1.json",
-    "hash": "39f1d736b29135561248928de0040fa2"
-  },
-  {
-    "path": "map/map_3-6_8.json",
-    "hash": "f8a4394abbfab1adf5db67374f28f839"
-  },
-  {
-    "path": "map/map_2-7_3.json",
-    "hash": "4a578dac40c0932a20c2f49955bccab3"
-  },
-  {
-    "path": "map/map_3-5_3.json",
-    "hash": "2f6cae79b76acfaf4faae79d049f6c1d"
-  },
-  {
-    "path": "map/map_3-1_4.json",
-    "hash": "2c9dbbaafdcdab15c4bafbeb54d995c3"
-  },
-  {
-    "path": "map/map_2-3_2.json",
-    "hash": "54a5d77533522e9f933ea99c651537d0"
-  },
-  {
-    "path": "map/map_3-1_1.json",
-    "hash": "7b55d893b5a57dd0aebdfe793c9db72c"
-  },
-  {
-    "path": "map/map_3-5_2.json",
-    "hash": "7dcf9c010e8f004512984eeca4208eaf"
-  },
-  {
-    "path": "map/map_1-3_4.json",
-    "hash": "331aa7315ee3526d9fbaa43a65884ca3"
-  },
-  {
-    "path": "map/map_1-2_1.json",
-    "hash": "cf0257f624bf16d311221cacec3fdf8f"
-  },
-  {
-    "path": "map/map_3-3_3.json",
-    "hash": "a64c6dfd1e47ea6c923b89df67a4430c"
-  },
-  {
-    "path": "map/map_3-6_3.json",
-    "hash": "33354718c111aca4ec9fe01814cf5e9b"
-  },
-  {
-    "path": "map/map_3-1_2.json",
-    "hash": "53e32842ee7d81e0521fb51c3a14e272"
-  },
-  {
-    "path": "map/map_2-5_3.json",
-    "hash": "24d2918504dcbfd9069ed64a1706b2de"
-  },
-  {
-    "path": "map/map_3-4_5.json",
-    "hash": "1ac33abae5c28af8ca606918914018ef"
-  },
-  {
-    "path": "map/map_2-3_4.json",
-    "hash": "09cc7818db66a1a85763b42d606b15dc"
-  },
-  {
-    "path": "map/map_2-5_4.json",
-    "hash": "e83d1f53873d7ee7956b4d4ffc55b6cd"
-  },
-  {
-    "path": "map/map_2-6_1.json",
-    "hash": "b85dfeab170e4ef2afb7ef6e40943baf"
-  },
-  {
-    "path": "map/map_3-6_1.json",
-    "hash": "4684900da95ebcb4f00a5c26fd6366cc"
-  },
-  {
-    "path": "map/map_2-3_3.json",
-    "hash": "bedf36f6cbe0be5e40773e56925a0082"
-  },
-  {
-    "path": "map/map_2-5_1.json",
-    "hash": "ace6fa5b429878183532e6ebd2790b1d"
-  },
-  {
-    "path": "map/map_2-3_1.json",
-    "hash": "1717455f5657a31a7cff817f0e11164d"
-  },
-  {
-    "path": "map/map_3-4_7.json",
-    "hash": "677b0d064ac9385b3a366f0185043c48"
-  },
-  {
-    "path": "map/map_3-5_7.json",
-    "hash": "298f9bddefed496f19c14a7f0afcc224"
-  },
-  {
-    "path": "map/map_1-1_1.json",
-    "hash": "83e9e02b8e0fa928fb8bc82359ab6141"
-  },
-  {
-    "path": "map/map_2-7_1.json",
-    "hash": "cfa6d7c9634ce771674f2b768633462c"
-  },
-  {
-    "path": "map/map_3-1_5.json",
-    "hash": "1d8f594abaa9f861d1972aa65db560e1"
-  },
-  {
-    "path": "map/map_3-5_5.json",
-    "hash": "9bc43e3e08088e75800640ed78fb9820"
-  },
-  {
-    "path": "map/map_1-2_2.json",
-    "hash": "f30af1358258ac87d62de9e86dc3f688"
-  },
-  {
-    "path": "map/map_3-5_6.json",
-    "hash": "285b4d0192971d36585b34ac3cc3eab4"
-  },
-  {
-    "path": "map/map_3-4_3.json",
-    "hash": "8cd4d568d56a94c8603bcae86491a8db"
-  },
-  {
-    "path": "map/map_2-2_2.json",
-    "hash": "cae817cb4e1a7ee640f90a9fe5b0d8b8"
-  },
-  {
-    "path": "map/map_1-3_3.json",
-    "hash": "557ee55c85e29206c5f6bab2f876c792"
+    "path": "map/map_3-3_2.json",
+    "hash": "e7b24285eae6659ffa4aa0a0181064e4"
   },
   {
     "path": "map/map_2-1_2.json",
     "hash": "d14d1490e768294efd4974bf73371cfd"
   },
   {
-    "path": "map/map_3-3_2.json",
-    "hash": "e7b24285eae6659ffa4aa0a0181064e4"
+    "path": "map/map_2-6_1.json",
+    "hash": "b85dfeab170e4ef2afb7ef6e40943baf"
   },
   {
-    "path": "map/map_3-6_6.json",
-    "hash": "d7d36e729af2ccefd82a71e1b12f0fd6"
+    "path": "map/map_2-5_4.json",
+    "hash": "e83d1f53873d7ee7956b4d4ffc55b6cd"
   },
   {
-    "path": "map/map_3-4_4.json",
-    "hash": "79a50b016e0ec485cee6b44363175a85"
+    "path": "map/map_3-2_6.json",
+    "hash": "04971b70b4ded1749c922dab35325052"
   },
   {
-    "path": "map/map_2-2_1.json",
-    "hash": "29883603db069e2d1fe6993a4a060b4f"
+    "path": "map/map_3-4_3.json",
+    "hash": "8cd4d568d56a94c8603bcae86491a8db"
   },
   {
-    "path": "map/map_3-1_3.json",
-    "hash": "7ed46e26702a5c0d6a14cfdfcdb9ff48"
+    "path": "map/map_1-3_2.json",
+    "hash": "7a25b9e5a7ff91d3ad6b39b6913c5ead"
+  },
+  {
+    "path": "map/map_3-1_6.json",
+    "hash": "301972a37d99626617d757e5cb525efc"
+  },
+  {
+    "path": "map/map_3-4_5.json",
+    "hash": "1ac33abae5c28af8ca606918914018ef"
+  },
+  {
+    "path": "map/map_2-3_2.json",
+    "hash": "54a5d77533522e9f933ea99c651537d0"
+  },
+  {
+    "path": "map/map_3-4_6.json",
+    "hash": "ce5c4b81f070b55baeabb26b5f52d75d"
   },
   {
     "path": "map/map_2-1_1.json",
     "hash": "de73f187bb7a17d0a0c863c83c2fc028"
   },
   {
+    "path": "map/map_2-3_3.json",
+    "hash": "bedf36f6cbe0be5e40773e56925a0082"
+  },
+  {
+    "path": "map/map_1-1_1.json",
+    "hash": "83e9e02b8e0fa928fb8bc82359ab6141"
+  },
+  {
+    "path": "map/map_3-7_8.json",
+    "hash": "b15c3616540e7270d4a37af9681c6cf8"
+  },
+  {
+    "path": "map/map_3-3_3.json",
+    "hash": "a64c6dfd1e47ea6c923b89df67a4430c"
+  },
+  {
+    "path": "map/map_3-3_5.json",
+    "hash": "3cade683317f6a5501fb308b3ee02433"
+  },
+  {
+    "path": "map/map_3-6_6.json",
+    "hash": "1ede7b53f803403fbf5584f120c86e2c"
+  },
+  {
+    "path": "map/map_3-4_1.json",
+    "hash": "e0a0c17dd1c62de11cf24694b8801818"
+  },
+  {
+    "path": "map/map_3-1_2.json",
+    "hash": "53e32842ee7d81e0521fb51c3a14e272"
+  },
+  {
+    "path": "map/map_1-3_1.json",
+    "hash": "4dc819bcadf68d0bebaf9de51ac4058a"
+  },
+  {
+    "path": "map/map_3-1_5.json",
+    "hash": "1d8f594abaa9f861d1972aa65db560e1"
+  },
+  {
+    "path": "map/map_3-7_6.json",
+    "hash": "9878c2aad033dfc9d0c48c23fef82fd2"
+  },
+  {
+    "path": "map/map_3-2_5.json",
+    "hash": "6c0fc4b4f43412ac5823bef80e830bd1"
+  },
+  {
+    "path": "map/map_3-6_2.json",
+    "hash": "f53f961570afc912450cb74965054edf"
+  },
+  {
+    "path": "map/map_1-2_3.json",
+    "hash": "314ad7f1e0640e6405e351f3ba48cbdd"
+  },
+  {
+    "path": "map/map_3-7_2.json",
+    "hash": "c79893ea4641abbcc60abb8ccd30b2dc"
+  },
+  {
+    "path": "map/map_2-7_1.json",
+    "hash": "cfa6d7c9634ce771674f2b768633462c"
+  },
+  {
+    "path": "map/map_3-6_5.json",
+    "hash": "138f0a0bc90dea0fe656d71e490090fe"
+  },
+  {
+    "path": "map/map_3-3_6.json",
+    "hash": "7bb373012acf8eff83733bc32998ed98"
+  },
+  {
+    "path": "map/map_3-1_4.json",
+    "hash": "2c9dbbaafdcdab15c4bafbeb54d995c3"
+  },
+  {
+    "path": "map/map_3-1_1.json",
+    "hash": "7b55d893b5a57dd0aebdfe793c9db72c"
+  },
+  {
+    "path": "map/map_3-7_1.json",
+    "hash": "563b606d3268b6a447bd6b6c38382273"
+  },
+  {
+    "path": "map/map_2-3_1.json",
+    "hash": "1717455f5657a31a7cff817f0e11164d"
+  },
+  {
     "path": "map/map_2-7_2.json",
     "hash": "5730eceda382210d11c2b49021c48f64"
   },
   {
-    "path": "map/mnq/map_2-3_5.json",
-    "hash": "aa5bc7e8233ea453533957786611a560"
+    "path": "map/map_3-7_3.json",
+    "hash": "0baf73fc4826ce664d38afafa3d1a7c3"
   },
   {
-    "path": "map/mnq/map_3-4_1.json",
-    "hash": "407e97e3c1774f0dd0ed08a88d34df93"
+    "path": "map/map_3-6_7.json",
+    "hash": "1e42fc9c2552caa0043175c565a7a995"
   },
   {
-    "path": "map/mnq/map_3-2_5.json",
-    "hash": "3b1cc7109e0f0a23894ec4bdf293c995"
-  },
-  {
-    "path": "map/mnq/map_3-4_6.json",
-    "hash": "8e1a1537f59253270fd49aded8e7bff8"
-  },
-  {
-    "path": "map/mnq/map_2-4_2.json",
-    "hash": "2bee08c1992fde5413a6888514bcf395"
-  },
-  {
-    "path": "map/mnq/map_1-3_2.json",
-    "hash": "4b3c6f96c99278fd46940a5b90ed2111"
-  },
-  {
-    "path": "map/mnq/map_3-3_4.json",
-    "hash": "5ad1e5808cdbd559b092a2ecd6fb4e07"
-  },
-  {
-    "path": "map/mnq/map_1-3_1.json",
-    "hash": "4dc819bcadf68d0bebaf9de51ac4058a"
-  },
-  {
-    "path": "map/mnq/map_1-2_3.json",
-    "hash": "5b88c3e44a247f85fc5be38947f697d2"
-  },
-  {
-    "path": "map/mnq/map_2-6_2.json",
-    "hash": "4839ce1c2b8d669effac67456871a9b7"
-  },
-  {
-    "path": "map/mnq/map_3-2_1.json",
-    "hash": "0435cb228f9e63dd1a830baa3ef41b8f"
-  },
-  {
-    "path": "map/mnq/map_3-3_1.json",
-    "hash": "e7098c3da557a076236926b2414e5b51"
-  },
-  {
-    "path": "map/mnq/map_3-2_4.json",
-    "hash": "eff5c989b3e435e3f50ba76d6d042b43"
-  },
-  {
-    "path": "map/mnq/map_3-2_3.json",
-    "hash": "7dcfa5d7ed9050b3a5503344af012f88"
-  },
-  {
-    "path": "map/mnq/map_2-5_2.json",
-    "hash": "d92316a7b0ae3fe34c596eb3de3f73cb"
-  },
-  {
-    "path": "map/mnq/map_3-2_2.json",
-    "hash": "a80fd31418e7a7d8e2ff9fd1052d4f60"
-  },
-  {
-    "path": "map/mnq/map_3-1_6.json",
-    "hash": "301972a37d99626617d757e5cb525efc"
-  },
-  {
-    "path": "map/mnq/map_2-4_1.json",
-    "hash": "a410f2e6033d7fe59822eb25ed588692"
-  },
-  {
-    "path": "map/mnq/map_2-7_3.json",
-    "hash": "89492afa18ae3c7d9dd14a3d04c87d14"
-  },
-  {
-    "path": "map/mnq/map_3-4_2.json",
-    "hash": "09371b9b55433ec22207a721a7f4de79"
-  },
-  {
-    "path": "map/mnq/map_3-1_4.json",
-    "hash": "0396f74fcc39555d8d48e490e493f6c1"
-  },
-  {
-    "path": "map/mnq/map_2-3_2.json",
-    "hash": "54a5d77533522e9f933ea99c651537d0"
-  },
-  {
-    "path": "map/mnq/map_3-1_1.json",
-    "hash": "7b55d893b5a57dd0aebdfe793c9db72c"
-  },
-  {
-    "path": "map/mnq/map_1-3_4.json",
-    "hash": "4c108224d0e179fd75a05d90f44f8bf3"
-  },
-  {
-    "path": "map/mnq/map_1-2_1.json",
-    "hash": "41d7fd03032388901f757c5231ac56b7"
-  },
-  {
-    "path": "map/mnq/map_3-3_3.json",
-    "hash": "3ccc902c3c103d514f6e2b9d1cdadc21"
-  },
-  {
-    "path": "map/mnq/map_3-1_2.json",
-    "hash": "de84e809b46c1fee523d6b4a4f038347"
-  },
-  {
-    "path": "map/mnq/map_2-5_3.json",
-    "hash": "75fcfe58d7ddd708f9a9c609c1121455"
-  },
-  {
-    "path": "map/mnq/map_3-4_5.json",
-    "hash": "8cf48690d5313454ffc24b7ab8b82192"
-  },
-  {
-    "path": "map/mnq/map_2-3_4.json",
-    "hash": "8a6eedfd76b4ad2db29dfd4d7194c6ce"
-  },
-  {
-    "path": "map/mnq/map_2-5_4.json",
-    "hash": "e83d1f53873d7ee7956b4d4ffc55b6cd"
-  },
-  {
-    "path": "map/mnq/map_2-6_1.json",
-    "hash": "c83968cf706c2384acc3b18c725137bc"
-  },
-  {
-    "path": "map/mnq/map_2-3_3.json",
-    "hash": "335adafcfcf68d7d7f64f0a47d856f46"
-  },
-  {
-    "path": "map/mnq/map_2-5_1.json",
-    "hash": "666df7e3da286edfc9d7c37892262900"
-  },
-  {
-    "path": "map/mnq/map_2-3_1.json",
-    "hash": "3f67ff0ecc8874ae49e6071763f39bba"
-  },
-  {
-    "path": "map/mnq/map_3-4_7.json",
-    "hash": "3c6dfc88f30db0947a09aff735c0ba8c"
-  },
-  {
-    "path": "map/mnq/map_1-1_1.json",
-    "hash": "fb21ca67b9ce4794659b7af25e44fd8f"
-  },
-  {
-    "path": "map/mnq/map_2-7_1.json",
-    "hash": "cfa6d7c9634ce771674f2b768633462c"
-  },
-  {
-    "path": "map/mnq/map_3-1_5.json",
-    "hash": "1d8f594abaa9f861d1972aa65db560e1"
-  },
-  {
-    "path": "map/mnq/map_1-2_2.json",
-    "hash": "f30af1358258ac87d62de9e86dc3f688"
-  },
-  {
-    "path": "map/mnq/map_3-4_3.json",
-    "hash": "8cd4d568d56a94c8603bcae86491a8db"
-  },
-  {
-    "path": "map/mnq/map_2-2_2.json",
-    "hash": "8161d1128a96c0d71dda52e6dc12cc7d"
-  },
-  {
-    "path": "map/mnq/map_1-3_3.json",
-    "hash": "557ee55c85e29206c5f6bab2f876c792"
-  },
-  {
-    "path": "map/mnq/map_2-1_2.json",
-    "hash": "d14d1490e768294efd4974bf73371cfd"
-  },
-  {
-    "path": "map/mnq/map_3-3_2.json",
-    "hash": "77009ba0fe2c390d46c0a35486282109"
-  },
-  {
-    "path": "map/mnq/map_3-4_4.json",
-    "hash": "e8778f2b1b641b573d64f6816f6081da"
-  },
-  {
-    "path": "map/mnq/map_2-2_1.json",
-    "hash": "a3bc9ef9044ba236ceaca0500ae5827a"
-  },
-  {
-    "path": "map/mnq/map_3-1_3.json",
+    "path": "map/map_3-1_3.json",
     "hash": "7ed46e26702a5c0d6a14cfdfcdb9ff48"
   },
   {
-    "path": "map/mnq/map_2-1_1.json",
-    "hash": "dd238df7dcd575b0b9f3c5209ba91823"
+    "path": "map/map_3-3_1.json",
+    "hash": "49ced16fc0e3a7ba15073ef03250f64f"
   },
   {
-    "path": "map/mnq/map_2-7_2.json",
-    "hash": "5730eceda382210d11c2b49021c48f64"
+    "path": "map/map_2-5_2.json",
+    "hash": "9ef159ad670387d03e38cf8339e22fca"
+  },
+  {
+    "path": "map/map_2-4_1.json",
+    "hash": "39f1d736b29135561248928de0040fa2"
+  },
+  {
+    "path": "map/map_2-3_4.json",
+    "hash": "09cc7818db66a1a85763b42d606b15dc"
+  },
+  {
+    "path": "map/map_2-7_3.json",
+    "hash": "4a578dac40c0932a20c2f49955bccab3"
+  },
+  {
+    "path": "map/map_3-5_2.json",
+    "hash": "46c785d3f87a9c77a3db4d8d13a72196"
+  },
+  {
+    "path": "map/map_2-5_3.json",
+    "hash": "24d2918504dcbfd9069ed64a1706b2de"
+  },
+  {
+    "path": "map/map_3-4_7.json",
+    "hash": "677b0d064ac9385b3a366f0185043c48"
+  },
+  {
+    "path": "map/map_3-6_4.json",
+    "hash": "70909bbf2f83678795069983ba8ed251"
+  },
+  {
+    "path": "map/map_3-2_4.json",
+    "hash": "047d5d83e5e0cb1bdf8cf31fe1cc68a6"
+  },
+  {
+    "path": "map/map_3-4_4.json",
+    "hash": "79a50b016e0ec485cee6b44363175a85"
+  },
+  {
+    "path": "map/map_2-2_2.json",
+    "hash": "cae817cb4e1a7ee640f90a9fe5b0d8b8"
+  },
+  {
+    "path": "map/map_1-2_1.json",
+    "hash": "cf0257f624bf16d311221cacec3fdf8f"
+  },
+  {
+    "path": "map/map_2-5_1.json",
+    "hash": "ace6fa5b429878183532e6ebd2790b1d"
+  },
+  {
+    "path": "map/map_3-7_7.json",
+    "hash": "b438c8a16a191009e6c59e051ce8f6e2"
+  },
+  {
+    "path": "map/map_1-3_4.json",
+    "hash": "331aa7315ee3526d9fbaa43a65884ca3"
+  },
+  {
+    "path": "map/map_3-6_1.json",
+    "hash": "ccb215a88bdf9907c7f78281278dab30"
+  },
+  {
+    "path": "map/map_3-3_4.json",
+    "hash": "0fd6acec84614618bd721449c6c3b6f1"
+  },
+  {
+    "path": "map/map_2-6_2.json",
+    "hash": "4839ce1c2b8d669effac67456871a9b7"
+  },
+  {
+    "path": "map/map_2-4_2.json",
+    "hash": "2bee08c1992fde5413a6888514bcf395"
+  },
+  {
+    "path": "map/map_2-3_5.json",
+    "hash": "6049abafa5d7658a32b15e050d35c1a8"
+  },
+  {
+    "path": "map/map_3-2_2.json",
+    "hash": "39cbb92318893499d8503b008d862c6d"
+  },
+  {
+    "path": "map/map_3-2_3.json",
+    "hash": "7dcfa5d7ed9050b3a5503344af012f88"
+  },
+  {
+    "path": "map/map_3-6_3.json",
+    "hash": "cab11c96b67f55036b2011a9127867c1"
+  },
+  {
+    "path": "map/map_3-7_4.json",
+    "hash": "07972c5aeb5d880a6785e124342d1eb6"
+  },
+  {
+    "path": "map/map_3-5_1.json",
+    "hash": "0edb65cecc1b1fd1e8c16245292597fe"
+  },
+  {
+    "path": "map/map_2-2_1.json",
+    "hash": "29883603db069e2d1fe6993a4a060b4f"
+  },
+  {
+    "path": "map/map_3-7_5.json",
+    "hash": "27d2762777f752bf9f3a6411ddf7af75"
+  },
+  {
+    "path": "map/map_1-2_2.json",
+    "hash": "f30af1358258ac87d62de9e86dc3f688"
+  },
+  {
+    "path": "map/map_1-3_3.json",
+    "hash": "557ee55c85e29206c5f6bab2f876c792"
+  },
+  {
+    "path": "map/map_3-2_1.json",
+    "hash": "571910a1ff3ebdb8d8e24f78e7cfe356"
   }
 ]
