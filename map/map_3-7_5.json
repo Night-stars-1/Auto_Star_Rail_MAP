@@ -1,0 +1,29 @@
+{
+  "name": "鳞渊境-5",
+  "author": "夜里无星,jiuerd",
+  "start": [
+    {"map": 1},
+    {"map_3-7_point_4.png": 1.5},
+    {"transfer.jpg": 1.5}
+  ],
+  "map": [
+    {
+      "a": 2.8
+    },
+    {
+      "w": 0.8
+    },
+    {
+      "a": 8
+    },
+    {
+      "fighting": 1
+    },
+    {
+      "s": 0.8
+    },
+    {
+      "fighting": 1
+    }
+  ]
+}
